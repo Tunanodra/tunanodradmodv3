@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube_all",
+    "textures":{
+        "down": "tunanodradmodv3:block/mcfee_ore_butt",
+        "up": "tunanodradmodv3:block/mcfee_ore_top",
+        "north": "tunanodradmodv3:block/mcfee_ore_side",
+        "south": "tunanodradmodv3:block/mcfee_ore_side",
+        "west": "tunanodradmodv3:block/mcfee_ore_side",
+        "east": "tunanodradmodv3:block/mcfee_ore_side"
+    }
+}

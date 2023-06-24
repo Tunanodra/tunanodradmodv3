@@ -16,7 +16,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.sonibe.tdmv1.ExampleMod"
+			"com.sonibe.tdmv1.main"
 		],
 		"client": [
 			"com.sonibe.tdmv1.ExampleModClient"
